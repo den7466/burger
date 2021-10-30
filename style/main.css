@@ -102,6 +102,7 @@ img {
 }
 
 .promo-right {
+    background-color: black;
     background-image: url(../image/promo-right.png);
     padding: 102px 50px;
 }
