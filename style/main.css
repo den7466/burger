@@ -76,7 +76,7 @@ h1 span {
     background: linear-gradient(2.42deg, #F37335 -19.6%, #FBB731 100.79%, #FDC830 100.79%);
 }
 
-img {
+.main img {
     width: 829px;
     position: absolute;
     right: -168px;
